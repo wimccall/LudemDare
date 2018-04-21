@@ -1,2 +1,4 @@
 /// @description Spawn next wave
-Spawner.alarm[0] = 1;
+if (!Spawner.Spawning) {
+	Spawner.alarm[0] = 1;
+}
