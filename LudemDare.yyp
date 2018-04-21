@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1077b375-f2e5-4549-aa3f-8b22bd056b25",
+            "Value": {
+                "id": "5c71376f-7d0a-4b6f-8b14-b781f92f6d7b",
+                "resourcePath": "objects\\HealthCountObj\\HealthCountObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "18af9ca9-3bbf-4502-af1c-3495e2085ee1",
             "Value": {
                 "id": "1802374d-0389-44e5-aaf9-9629b4488f86",
@@ -148,6 +156,14 @@
                 "id": "2a3692e4-517f-4a69-b739-c186bedbb96f",
                 "resourcePath": "views\\5bb5656e-d799-4544-9bc3-2e53758228eb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5d0a61bc-69d6-4b00-ae89-7300d9c3255d",
+            "Value": {
+                "id": "7c6a9977-6837-48c1-a60f-bbd86b563e9f",
+                "resourcePath": "sprites\\HealthCount\\HealthCount.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -362,7 +378,7 @@
             "Key": "f1e90c3b-08d9-4592-973f-8b60d01a381a",
             "Value": {
                 "id": "de1e9dea-5f33-4480-a78f-9bf1fcb7598f",
-                "resourcePath": "sprites\\Grass\\Grass.yy",
+                "resourcePath": "sprites\\GrASS\\GrASS.yy",
                 "resourceType": "GMSprite"
             }
         },
