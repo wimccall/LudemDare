@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "bbbccf99-08cc-49e1-b95a-186533c181d9",
+            "Value": {
+                "id": "941a0578-e5be-4bba-af99-e7357803850f",
+                "resourcePath": "objects\\Arrowcreator\\Arrowcreator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc0bd1bc-caa6-47c2-8a1b-16a800cffd30",
             "Value": {
                 "id": "920cf3ba-57f4-4d19-bccc-bd17e5e4650c",
