@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-scr_Shoot_All_Towers();
+//scr_Shoot_All_Towers();
