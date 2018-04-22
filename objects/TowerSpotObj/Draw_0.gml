@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (AttachedTower != noone) {
-	draw_sprite(AttachedTower.PlacedSprite, 0, x, y);
+	draw_sprite(AttachedTower.PlacedSprite, image_index, x, y);
 	
 	if (Hover) {
 		draw_set_alpha(0.25)
