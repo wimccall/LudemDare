@@ -290,7 +290,15 @@
             "Key": "7725a1a2-974b-4e1d-984c-78f1e9f3bc6d",
             "Value": {
                 "id": "1f955028-ba80-49ff-b6e3-3810900e78a2",
-                "resourcePath": "sprites\\Tower1\\Tower1.yy",
+                "resourcePath": "sprites\\Tower1Cursor\\Tower1Cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77792d19-31b7-4a89-a4c9-99e8cd9fc9bc",
+            "Value": {
+                "id": "33bb97c1-307b-4436-b9a6-83ef36c10cf4",
+                "resourcePath": "sprites\\Tower1Placed\\Tower1Placed.yy",
                 "resourceType": "GMSprite"
             }
         },
