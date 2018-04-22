@@ -1,3 +1,4 @@
+
 instance_destroy(arrow_downobj); //1312, 672
 instance_destroy(arrow_upobj); //1376, 512
 instance_destroy(arrow_leftobj1); //1248, 192

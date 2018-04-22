@@ -7,4 +7,4 @@ currentAttachedTower = noone;
 ActiveTowers = ds_list_create();
 
 depth = -1000;
-audio_play_sound(testsong,1,false);
+
