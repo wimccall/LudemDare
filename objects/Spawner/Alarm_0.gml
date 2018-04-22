@@ -1,4 +1,4 @@
-instance_create_depth(x, y, -10000, CreepObj);
+instance_create_depth(x+32, y, -10000, CreepObj);
 Spawning = true;
 
 numCreeps[CurrentWave]--;
