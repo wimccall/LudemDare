@@ -7,6 +7,7 @@ for (var i = 0; i < ds_list_size(GameManager.ActiveTowers); i++) { // Loop throu
 			// Shoot the dude
 			var bullet = instance_create_depth(tower.x + 32, tower.y + 32, -1000, BulletNoteObj);
 			bullet.Target = enemy;
+			break;
 		}
 	}
 }
