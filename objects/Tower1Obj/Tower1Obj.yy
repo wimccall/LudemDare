@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "Tower1Obj",
     "eventList": [
-        {
-            "id": "0471b24c-e750-49f4-8a52-2e738b783d48",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2b0cf904-e6a7-4e25-b9bf-ba7d61133a30"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
