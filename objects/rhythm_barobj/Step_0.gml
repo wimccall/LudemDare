@@ -17,11 +17,15 @@ if correcthits = 4 {
 }
 
 if Spawner.Spawning = true {
+	audio_stop_sound(betweenwaves)
 	if (!audio_is_playing(testsong)) {
 		audio_play_sound(testsong, 1, false);
 	}
 }
 
-if (!instance_exists(CreepObj)) {
-	audio_stop_sound(testsong);
+if (!instance_exists(CreepParent)) {
+	audio_stop_sound(testsong)
+	if (!audio_is_playing(betweenwaves)) {
+		audio_play_sound(betweenwaves,1,true);
+	}
 }

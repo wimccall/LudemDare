@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "99b4ac0c-c59b-471e-8de1-c1b3ca0dac03",
+            "Value": {
+                "id": "c788262d-d691-4e51-9fb7-6dbf0ba1a0c2",
+                "resourcePath": "sounds\\betweenwaves\\betweenwaves.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9da76ff1-1c18-48a0-a4ac-0b959cde637f",
             "Value": {
                 "id": "4a7b345f-c20e-4147-a7f7-d10605d144b0",
