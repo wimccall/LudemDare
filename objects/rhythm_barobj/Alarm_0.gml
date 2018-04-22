@@ -13,13 +13,13 @@ if correcthits = 2 {
 
 if correcthits = 3 {
 	instance_create_depth(1248, 720, 1, Excellentobject);
-	scr_Shoot_All_Towers();
+	scr_Shoot_All_Towers()
 	scr_Shoot_All_Towers();
 }
 
 if correcthits = 4 {
 	instance_create_depth(1248, 720, 1, Amazingobject);
-	scr_Shoot_All_Towers();
-	scr_Shoot_All_Towers();
+	scr_Shoot_All_Towers()
+	scr_Shoot_All_Towers()
 	scr_Shoot_All_Towers();
 }
