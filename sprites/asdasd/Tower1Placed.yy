@@ -1,5 +1,5 @@
 {
-    "id": "560f376f-5981-4a11-9b9d-e8b47cabd28b",
+    "id": "77792d19-31b7-4a89-a4c9-99e8cd9fc9bc",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "Tower1Placed",
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "101ab25b-0317-42c0-ba26-e265658732a9",
+            "id": "0f6e1cc6-2575-4f82-a271-963da117490d",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "560f376f-5981-4a11-9b9d-e8b47cabd28b",
+            "SpriteId": "77792d19-31b7-4a89-a4c9-99e8cd9fc9bc",
             "compositeImage": {
-                "id": "fe59862f-22a0-4f34-a1f7-16ee02e45db5",
+                "id": "8ab5331a-bfa8-4245-9216-b555b1ff07f2",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "101ab25b-0317-42c0-ba26-e265658732a9",
+                "FrameId": "0f6e1cc6-2575-4f82-a271-963da117490d",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "3ae5f832-010d-4e18-9a71-e0da80c133c8",
+                    "id": "62630a48-21f1-464e-9377-7e433fbd95f5",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "101ab25b-0317-42c0-ba26-e265658732a9",
-                    "LayerId": "abe317b6-0f6e-4163-92ab-5014248dd647"
+                    "FrameId": "0f6e1cc6-2575-4f82-a271-963da117490d",
+                    "LayerId": "6dd6f908-bcb4-4079-87ea-42c263323af7"
                 }
             ]
         }
@@ -43,10 +43,10 @@
     "height": 64,
     "layers": [
         {
-            "id": "abe317b6-0f6e-4163-92ab-5014248dd647",
+            "id": "6dd6f908-bcb4-4079-87ea-42c263323af7",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "560f376f-5981-4a11-9b9d-e8b47cabd28b",
+            "SpriteId": "77792d19-31b7-4a89-a4c9-99e8cd9fc9bc",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -56,7 +56,7 @@
     ],
     "origin": 0,
     "originLocked": false,
-    "playbackSpeed": 15,
+    "playbackSpeed": 1,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,

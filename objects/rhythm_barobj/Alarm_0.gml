@@ -3,10 +3,12 @@ instance_create_depth(1344,28,1,rhythm_barobj);
 
 if correcthits = 1 {
 	instance_create_depth(1280, 720, 1, Okobject);
+	
 }
 
 if correcthits = 2 {
-	instance_create_depth(1248, 720, 1, Greatobject);
+	instance_create_depth(1248, 720, 1, Greatobject)
+
 }
 
 if correcthits = 3 {
