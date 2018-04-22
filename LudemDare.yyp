@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "cce23610-ffc9-4f4e-a170-f58c9287d41e",
+            "Value": {
+                "id": "a5d4deaf-b4a9-4885-9745-47a5bd110e43",
+                "resourcePath": "sprites\\Seperatorsprite\\Seperatorsprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d73d15b2-146c-40a3-9a64-8c3b46275793",
             "Value": {
                 "id": "954e16d4-e8c5-4f36-8504-c5ac16e2d61d",
