@@ -1,12 +1,8 @@
 if (Pressed = true) {
-	image_xscale = .7
-	image_yscale =  image_xscale;
+	sprite_index = Rhythm_button_pressed;
+	
 }
  
 else
 
-image_xscale = 1;
-image_yscale = 1;
- 
- 
-	
+sprite_index = Rhythm_button;

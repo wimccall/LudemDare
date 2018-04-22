@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "565960c5-1463-4e7e-884e-c365c5bec847",
+            "Value": {
+                "id": "04b01d05-87fc-41a8-89f9-e3f4524f948e",
+                "resourcePath": "sprites\\Rhythm_button_pressed\\Rhythm_button_pressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bb5656e-d799-4544-9bc3-2e53758228eb",
             "Value": {
                 "id": "2a3692e4-517f-4a69-b739-c186bedbb96f",
