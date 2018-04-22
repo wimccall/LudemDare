@@ -2,5 +2,9 @@
 // You can write your code in this editor
 PlayerGold = 10;
 PlayerHealth = 20;
+currentAttachedTower = noone;
+
+ActiveTowers = ds_list_create();
+
 depth = -1000;
 audio_play_sound(testsong,1,false);

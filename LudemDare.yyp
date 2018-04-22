@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "6bd53d46-1ea6-4619-a3a8-3ed8c05549d4",
+            "Value": {
+                "id": "39a9d7d5-c98b-45d5-a427-4939843a518e",
+                "resourcePath": "scripts\\scrGetDistance\\scrGetDistance.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6c7b8eb4-2e94-4ac7-8270-8cbb6383596b",
             "Value": {
                 "id": "d646cf21-2d9a-47f2-a1b8-819557c8e537",
@@ -330,7 +338,15 @@
             "Key": "7725a1a2-974b-4e1d-984c-78f1e9f3bc6d",
             "Value": {
                 "id": "1f955028-ba80-49ff-b6e3-3810900e78a2",
-                "resourcePath": "sprites\\Tower1\\Tower1.yy",
+                "resourcePath": "sprites\\Tower1Cursor\\Tower1Cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77792d19-31b7-4a89-a4c9-99e8cd9fc9bc",
+            "Value": {
+                "id": "33bb97c1-307b-4436-b9a6-83ef36c10cf4",
+                "resourcePath": "sprites\\Tower1Placed\\Tower1Placed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -436,6 +452,14 @@
                 "id": "44b6c5a7-c356-40cf-bf0c-d4ef19e4d82e",
                 "resourcePath": "objects\\Spawner\\Spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b8a387f0-71c7-4c66-ab1e-49f064ea02cf",
+            "Value": {
+                "id": "8dbb0d20-4305-46f8-9c1c-354cd94b6c4f",
+                "resourcePath": "scripts\\scr_Shoot_All_Towers\\scr_Shoot_All_Towers.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -608,7 +632,9 @@
         }
     ],
     "script_order": [
-        "00b0ffbd-fc79-4d8f-a363-097832f1279d"
+        "00b0ffbd-fc79-4d8f-a363-097832f1279d",
+        "b8a387f0-71c7-4c66-ab1e-49f064ea02cf",
+        "6bd53d46-1ea6-4619-a3a8-3ed8c05549d4"
     ],
     "tutorial": ""
 }
