@@ -4,4 +4,6 @@ if (Pressed = true) {
  
 else
 sprite_index = Rhythm_button;
+
+allowpress -= 1;
 	
