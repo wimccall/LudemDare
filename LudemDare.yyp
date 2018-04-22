@@ -383,6 +383,22 @@
             }
         },
         {
+            "Key": "797a9792-98f1-4f70-91dd-1078b2b390b1",
+            "Value": {
+                "id": "b965aa5e-08e6-4fe1-99dd-48aadc109868",
+                "resourcePath": "fonts\\tutorialfont\\tutorialfont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "7a50df53-3e44-44be-8bcd-036ba5072717",
+            "Value": {
+                "id": "f4cae246-06f7-4e57-bfe8-65d7737bc6d4",
+                "resourcePath": "objects\\Playbutton_obj\\Playbutton_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e8964a0-1b26-4134-a2ba-a02a1fff909f",
             "Value": {
                 "id": "9a37e4ef-aded-497b-ac9c-3e3b9d017022",
@@ -412,6 +428,14 @@
                 "id": "c0ce76e1-ecc6-4d65-8893-e9cc9583282b",
                 "resourcePath": "objects\\arrow_downobj\\arrow_downobj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e92ce4d-baed-4bbf-b2e4-324152843502",
+            "Value": {
+                "id": "fb48c1ff-ea94-4994-93cc-b409a2e22b4c",
+                "resourcePath": "rooms\\Tutorial\\Tutorial.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -595,6 +619,14 @@
             "Value": {
                 "id": "2dee6575-71c2-4100-bbc5-19ae94b393dc",
                 "resourcePath": "sprites\\GoldCount\\GoldCount.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eaae2846-f7b4-4766-b783-4d32ef5a60fa",
+            "Value": {
+                "id": "a43aeabc-d2fe-4957-9cd9-5d0a906888f3",
+                "resourcePath": "sprites\\Playbutton\\Playbutton.yy",
                 "resourceType": "GMSprite"
             }
         },
