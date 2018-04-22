@@ -1,8 +1,5 @@
 if arrow_upobj.Pressed = true {
-	color_get_red(c_red);
+	correcthits += 1;
 }
 
-else
-
-instance_destroy(self, true);
 

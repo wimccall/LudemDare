@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "11919b2c-12cb-4f39-b333-655b144d8d22",
+            "Value": {
+                "id": "45155900-2850-4417-b203-4c3aa0ee80f7",
+                "resourcePath": "sounds\\testsong\\testsong.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "15e13c5c-fc22-444f-9ede-5b554a5c8401",
             "Value": {
                 "id": "9c50fb44-a8d7-4877-aa6d-7a1d5c4e4060",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "5c6a2630-97e6-4bb2-9c75-34720f5e7d91",
+            "Value": {
+                "id": "5402bb4b-39d9-49d1-8cd8-1396a79fee31",
+                "resourcePath": "sprites\\Rhythm_bar4\\Rhythm_bar4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5cc8de3a-6fa0-4c6b-9f87-aca4d79afc72",
             "Value": {
                 "id": "e09da465-85a6-45d7-a094-a5722ba55181",
@@ -228,6 +244,14 @@
                 "id": "433775be-2bc9-494a-9fc1-d34c37883136",
                 "resourcePath": "views\\68e19d3c-ac9b-4adc-b6ef-b5da9e95a91a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "697784cd-1099-4935-9f9d-30b5702b9a3b",
+            "Value": {
+                "id": "9cb1ad71-e7fd-4e3e-975e-1a7450186014",
+                "resourcePath": "sprites\\Rhythm_bar5\\Rhythm_bar5.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,6 +423,14 @@
             }
         },
         {
+            "Key": "e7c47782-50a6-47ed-bfd8-d987a4d4b4b7",
+            "Value": {
+                "id": "f07057a4-aa20-4008-b2bb-52235ff12288",
+                "resourcePath": "sprites\\Rhythm_bar3\\Rhythm_bar3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e8144c9e-f29b-4926-b6b0-9fb0a801df6c",
             "Value": {
                 "id": "79ba5183-3e1d-4ad3-b449-7be621e25d54",
@@ -468,6 +500,14 @@
                 "id": "f742092c-4892-4b4c-8f08-3fccb161c1ea",
                 "resourcePath": "objects\\UIMenuObj\\UIMenuObj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2f13379-6b91-4521-94f7-f05a9157f954",
+            "Value": {
+                "id": "92c4ae99-92e2-4e10-9f7b-402e5fd2e817",
+                "resourcePath": "sprites\\Rhythm_bar2\\Rhythm_bar2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
