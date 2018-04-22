@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "49b4feb7-64e2-48bd-9df3-0a5de74e7a9f",
+            "Value": {
+                "id": "d5703c77-63cb-4acd-b959-c88563b76cf1",
+                "resourcePath": "sprites\\BulletNote\\BulletNote.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a4b7cb1-eedd-4367-bf36-548606960074",
             "Value": {
                 "id": "96e1f209-1271-453f-9e2f-52cc2d45b0c1",
@@ -220,6 +228,14 @@
                 "id": "6dffe839-20b3-4dac-a4f8-d245973fee5f",
                 "resourcePath": "views\\54c60f32-f7ff-49c7-8504-5856861f45bc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "560f376f-5981-4a11-9b9d-e8b47cabd28b",
+            "Value": {
+                "id": "bc3372b8-9489-465f-b946-70eaf55a99bd",
+                "resourcePath": "sprites\\Tower1Placed\\Tower1Placed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "9cb1ad71-e7fd-4e3e-975e-1a7450186014",
                 "resourcePath": "sprites\\Rhythm_bar5\\Rhythm_bar5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bd53d46-1ea6-4619-a3a8-3ed8c05549d4",
+            "Value": {
+                "id": "3b1109dc-f59f-4b4e-80ce-3d045d895f02",
+                "resourcePath": "scripts\\scrGetDistance\\scrGetDistance.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -444,6 +468,14 @@
                 "id": "44b6c5a7-c356-40cf-bf0c-d4ef19e4d82e",
                 "resourcePath": "objects\\Spawner\\Spawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b8a387f0-71c7-4c66-ab1e-49f064ea02cf",
+            "Value": {
+                "id": "bd1f44a6-3bfc-4338-8c4d-45c2cce5d95f",
+                "resourcePath": "scripts\\scr_Shoot_All_Towers\\scr_Shoot_All_Towers.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -616,7 +648,9 @@
         }
     ],
     "script_order": [
-        "00b0ffbd-fc79-4d8f-a363-097832f1279d"
+        "00b0ffbd-fc79-4d8f-a363-097832f1279d",
+        "6bd53d46-1ea6-4619-a3a8-3ed8c05549d4",
+        "b8a387f0-71c7-4c66-ab1e-49f064ea02cf"
     ],
     "tutorial": ""
 }

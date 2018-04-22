@@ -151,19 +151,16 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "2b2d290c-d2a5-4ece-a4ea-5ff00c27fc4a",
             "Value": {
                 "id": "60e1b7c7-f56f-4ee7-9c14-5385ffca5502",
                 "resourcePath": "sprites\\BulletNote\\BulletNote.yy",
                 "resourceType": "GMSprite"
-=======
             "Key": "33c490f1-999b-494d-94c6-0dfa32475299",
             "Value": {
                 "id": "395362df-04e6-459a-ba21-f787fe4b9074",
                 "resourcePath": "objects\\Excellentobject\\Excellentobject.yy",
                 "resourceType": "GMObject"
->>>>>>> ede0f6d6104b236a309790337b3e3ff80bad41f0
             }
         },
         {
