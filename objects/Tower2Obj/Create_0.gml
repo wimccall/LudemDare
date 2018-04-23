@@ -3,4 +3,4 @@
 
 PlacedSprite = Tower2Placed;
 BulletType = Tower2BulletSpawner;
-Range = 150; // Essentially infinite range
+Range = 150;
