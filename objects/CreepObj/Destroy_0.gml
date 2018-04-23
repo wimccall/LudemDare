@@ -1,3 +1,3 @@
 /// @description Give da player his mulah
 
-GameManager.PlayerGold += 2;
+if (!bDestroyedByPath) GameManager.PlayerGold += 2;

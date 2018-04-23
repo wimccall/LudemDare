@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "4987f64d-1ac2-4758-8b70-bc48d9e5dc7c",
+            "Value": {
+                "id": "aa27caaf-1928-44d5-99e6-228a6c37af59",
+                "resourcePath": "sprites\\InstructionsbuttonspriteHover\\InstructionsbuttonspriteHover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "49b4feb7-64e2-48bd-9df3-0a5de74e7a9f",
             "Value": {
                 "id": "d5703c77-63cb-4acd-b959-c88563b76cf1",
@@ -423,6 +431,14 @@
             }
         },
         {
+            "Key": "719dc835-9043-4e92-8ada-0ad85d1a01f4",
+            "Value": {
+                "id": "86048f42-b5a5-4e7e-997d-ad0cfe553e1c",
+                "resourcePath": "sprites\\BackButton\\BackButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7420172d-d0c2-48cf-a2bf-1118cb5563a1",
             "Value": {
                 "id": "e339d28e-307b-412a-a2a8-21e1adb846cb",
@@ -503,6 +519,14 @@
             }
         },
         {
+            "Key": "8baf6196-f845-4ab4-948a-245848c85f3a",
+            "Value": {
+                "id": "91cd5202-621d-4149-ae93-f0043fa52a40",
+                "resourcePath": "objects\\BackButtonObj\\BackButtonObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8e92ce4d-baed-4bbf-b2e4-324152843502",
             "Value": {
                 "id": "fb48c1ff-ea94-4994-93cc-b409a2e22b4c",
@@ -572,6 +596,14 @@
                 "id": "a6aa10e0-bde2-44d7-bcd4-db5174427a1a",
                 "resourcePath": "rooms\\Instructions\\Instructions.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a55ce3ab-a69d-4038-b66f-6019ebead970",
+            "Value": {
+                "id": "d20c49a2-13ae-4024-8846-b7f4e9e000d7",
+                "resourcePath": "sprites\\BackButtonHover\\BackButtonHover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -676,6 +708,14 @@
                 "id": "a6649ab0-d5f0-4792-9dc0-1faa950c05d2",
                 "resourcePath": "objects\\Lineobj\\Lineobj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "de9fc3ad-4bde-4a75-8029-0010464bcd86",
+            "Value": {
+                "id": "65a9e988-19b6-45ad-a3af-129f6eaeee5d",
+                "resourcePath": "sprites\\PlaybuttonHover\\PlaybuttonHover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
