@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-PlayerGold = 10;
+PlayerGold = 30;
 PlayerHealth = 20;
 currentAttachedTower = noone;
 

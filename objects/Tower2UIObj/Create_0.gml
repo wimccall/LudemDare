@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 Hover = false;
-Price = 10;
+Price = 30;
