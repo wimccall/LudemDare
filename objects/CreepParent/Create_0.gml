@@ -5,6 +5,7 @@ Speed = 5;
 Damage = 1;
 maxHealth = 20;
 Health = maxHealth;
+bDestroyedByPath = false;
 
 path = CreepPathEasyRoom;
 

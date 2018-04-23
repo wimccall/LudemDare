@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 PlayerGold = 30;
-PlayerHealth = 20;
+PlayerHealth = 10;
 currentAttachedTower = noone;
 
 ActiveTowers = ds_list_create();
