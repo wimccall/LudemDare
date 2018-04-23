@@ -1,3 +1,4 @@
+
 if correcthits = 1 {
 	sprite_index = Rhythm_bar2;
 }
