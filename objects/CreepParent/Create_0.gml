@@ -3,6 +3,7 @@
 // Defaults
 Speed = 5;
 Damage = 1;
-Health = 10;
+maxHealth = 20;
+Health = maxHealth;
 
 path = CreepPathEasyRoom;
