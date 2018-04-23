@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "03b3ef6f-9568-499a-b555-ee8843fa621c",
+            "Value": {
+                "id": "5d6c9c39-2290-42ec-8144-c5c82899eb88",
+                "resourcePath": "objects\\Instructions_obj\\Instructions_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0aab4c97-72e5-4da6-ac4c-1bbd2dff11a2",
             "Value": {
                 "id": "2b7c3c33-8330-4f4a-8c00-3fe37ffaa1c7",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "608e942f-64eb-4e78-86bd-db2bb2a30577",
+            "Value": {
+                "id": "d1558c94-9f37-44ce-9918-6f2b6e4b2835",
+                "resourcePath": "objects\\Instructionsroomobj\\Instructionsroomobj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "62ef5274-ed2d-4b65-84e4-c671d6ed6808",
             "Value": {
                 "id": "07a13650-1311-4c13-9dc4-85dbfa3d394a",
@@ -490,7 +506,7 @@
             "Key": "8e92ce4d-baed-4bbf-b2e4-324152843502",
             "Value": {
                 "id": "fb48c1ff-ea94-4994-93cc-b409a2e22b4c",
-                "resourcePath": "rooms\\Tutorial\\Tutorial.yy",
+                "resourcePath": "rooms\\StartMenu\\StartMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -499,6 +515,14 @@
             "Value": {
                 "id": "15935c87-7790-4e68-a4f8-e91bef857489",
                 "resourcePath": "sprites\\WaveButton\\WaveButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "938c4142-1ba0-4b64-a525-d7d8d9046fe6",
+            "Value": {
+                "id": "0d219339-6685-411a-8043-469d1a9ff72e",
+                "resourcePath": "sprites\\Instructionsbuttonsprite\\Instructionsbuttonsprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -540,6 +564,14 @@
                 "id": "40fd3793-151a-4b64-a594-9fe85f1a9196",
                 "resourcePath": "paths\\CreepPathEasyRoom\\CreepPathEasyRoom.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "a2e7fc30-b245-42a6-8736-16d5468d4d1b",
+            "Value": {
+                "id": "a6aa10e0-bde2-44d7-bcd4-db5174427a1a",
+                "resourcePath": "rooms\\Instructions\\Instructions.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
