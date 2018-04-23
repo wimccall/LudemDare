@@ -3,6 +3,8 @@
 PlayerGold = 30;
 PlayerHealth = 10;
 currentAttachedTower = noone;
+Amazingscount = 0;
+
 
 ActiveTowers = ds_list_create();
 

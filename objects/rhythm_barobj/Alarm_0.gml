@@ -18,6 +18,7 @@ if correcthits = 3 {
 }
 
 if correcthits = 4 {
+	GameManager.Amazingscount += 1;
 	instance_create_depth(1248, 736, 1, Amazingobject);
 	scr_Shoot_All_Towers()
 	scr_Shoot_All_Towers()
