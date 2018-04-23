@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-PlacedSprite = Tower1Placed;
-BulletType = BulletNoteObj;
-Range = 200;
+Damage = 5;
+Target = noone;
+Speed = 15;
+
+alarm[0] = 10;

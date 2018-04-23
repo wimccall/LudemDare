@@ -5,7 +5,7 @@ for (var i = 0; i < ds_list_size(GameManager.ActiveTowers); i++) { // Loop throu
 		var distance = scrGetDistance(enemy.x, (tower.x + 32), enemy.y, (tower.y + 32));
 		if (distance < tower.Range) {
 			// Shoot the dude
-			var bullet = instance_create_depth(tower.x + 32, tower.y + 32, -1000, BulletNoteObj);
+			var bullet = instance_create_depth(tower.x + 32, tower.y + 32, -1000, tower.BulletType);
 			bullet.Target = enemy;
 			break;
 		}

@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "25329a14-aeae-481b-aac5-6e82fc055560",
+            "Value": {
+                "id": "edd07bbe-b4c8-45bc-a476-c9414e6325c0",
+                "resourcePath": "sprites\\Tower2Placed\\Tower2Placed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28f20a04-9c45-45df-9ca1-8035e588d296",
             "Value": {
                 "id": "3b10cb15-e72f-4428-8916-6e04edfcf5f5",
@@ -175,11 +183,27 @@
             }
         },
         {
+            "Key": "36025c34-eccd-46e2-ad8d-534660837a18",
+            "Value": {
+                "id": "87cb9a91-0abd-4fe6-8684-e2e540ababd9",
+                "resourcePath": "sprites\\Tower2\\Tower2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "399e2908-2885-47ca-96e6-8e2976791c90",
             "Value": {
                 "id": "b91758bc-de97-44e0-a992-31f413329c8e",
                 "resourcePath": "sprites\\OKsprite\\OKsprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ce98b18-08f4-402d-9479-0b65a02007d2",
+            "Value": {
+                "id": "5b5fdde2-bf15-4c44-89da-0c76cf23ad18",
+                "resourcePath": "objects\\Tower2UIObj\\Tower2UIObj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +236,14 @@
                 "id": "96e1f209-1271-453f-9e2f-52cc2d45b0c1",
                 "resourcePath": "objects\\Tower1UIIconObj\\Tower1UIIconObj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4cab809f-6ba8-4839-85c4-00250d7031d9",
+            "Value": {
+                "id": "d5ef8f7a-f989-47f6-a9c7-29725a088636",
+                "resourcePath": "sprites\\Tower2UIIconHover\\Tower2UIIconHover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +335,14 @@
             }
         },
         {
+            "Key": "67bb0763-5bbc-4152-95d1-59f01758b4a7",
+            "Value": {
+                "id": "5e6eb1da-21fc-45e8-baec-c8ff60e316e0",
+                "resourcePath": "objects\\Tower2Obj\\Tower2Obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68a550d2-374a-4d0f-8100-47e34c972083",
             "Value": {
                 "id": "2ca212e9-e749-4977-9cf6-bc12b8813e26",
@@ -348,6 +388,14 @@
                 "id": "d646cf21-2d9a-47f2-a1b8-819557c8e537",
                 "resourcePath": "sprites\\EndArrow\\EndArrow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f153c91-862d-4656-8501-cf86f315154c",
+            "Value": {
+                "id": "51f42522-40af-4cfb-8cd5-f95f05324a72",
+                "resourcePath": "objects\\Tower2BulletSpawner\\Tower2BulletSpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,6 +479,14 @@
             }
         },
         {
+            "Key": "873e0889-fa63-4abc-8fba-d7c92d1a90ee",
+            "Value": {
+                "id": "6054ccc1-fbe3-4538-97b4-457f7539d4dc",
+                "resourcePath": "sprites\\Tower2UIIcon\\Tower2UIIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e92ce4d-baed-4bbf-b2e4-324152843502",
             "Value": {
                 "id": "fb48c1ff-ea94-4994-93cc-b409a2e22b4c",
@@ -444,6 +500,14 @@
                 "id": "15935c87-7790-4e68-a4f8-e91bef857489",
                 "resourcePath": "sprites\\WaveButton\\WaveButton.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9917f18d-97b5-4324-a276-639e7ce90cdc",
+            "Value": {
+                "id": "63f703d8-caf5-4f52-b703-e1c176aec220",
+                "resourcePath": "objects\\bullet32ndObj\\bullet32ndObj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -708,6 +772,14 @@
                 "id": "c9531928-247c-48e9-b34e-5dd9f9eef93c",
                 "resourcePath": "views\\f9eab9f5-ee54-43f8-83e7-c9dd96dc4e93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fbac0d79-5063-448f-9d45-b73e6fd2d8b4",
+            "Value": {
+                "id": "ceab0146-2f5b-4eab-8c9f-62227ca0881d",
+                "resourcePath": "sprites\\Bullet32nd\\Bullet32nd.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
