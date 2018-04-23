@@ -695,6 +695,14 @@
             }
         },
         {
+            "Key": "c499ca2f-034c-4e89-ad75-a840905925c8",
+            "Value": {
+                "id": "79e3f5ba-e725-49d9-a955-33af510add7e",
+                "resourcePath": "sprites\\Backbuttonhover1\\Backbuttonhover1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8985c778-9894-4288-acf9-3aaa60f07db5",
@@ -812,6 +820,14 @@
                 "id": "2ababadc-daed-44b8-8afb-f21430608556",
                 "resourcePath": "objects\\GameManager\\GameManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ebfcf284-6976-4476-92f6-46f9c4bbf884",
+            "Value": {
+                "id": "d8d64028-ad96-4fc6-a65f-84cb82aaec02",
+                "resourcePath": "sprites\\Title_Screen\\Title_Screen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
