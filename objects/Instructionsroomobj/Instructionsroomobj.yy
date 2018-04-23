@@ -1,28 +1,18 @@
 {
-    "id": "7a50df53-3e44-44be-8bcd-036ba5072717",
+    "id": "608e942f-64eb-4e78-86bd-db2bb2a30577",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Playbutton_obj",
+    "name": "Instructionsroomobj",
     "eventList": [
         {
-            "id": "3201abbf-0f3f-4846-b0cc-7800a911ec43",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "7a50df53-3e44-44be-8bcd-036ba5072717"
-        },
-        {
-            "id": "dfd0049b-6ff3-455c-bb7c-58804a04ae18",
+            "id": "bbbfacbe-62cd-4e99-af44-7e92148aa884",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7a50df53-3e44-44be-8bcd-036ba5072717"
+            "eventtype": 8,
+            "m_owner": "608e942f-64eb-4e78-86bd-db2bb2a30577"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "eaae2846-f7b4-4766-b783-4d32ef5a60fa",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
