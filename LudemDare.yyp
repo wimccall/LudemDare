@@ -551,6 +551,14 @@
             }
         },
         {
+            "Key": "aed495d6-b942-4ead-8898-dd0430f67ae7",
+            "Value": {
+                "id": "51915b02-ed1c-4879-969e-7d3cf05bca5d",
+                "resourcePath": "sprites\\Creep2\\Creep2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b31333b9-e1dc-436f-8717-0fa878309c9d",
             "Value": {
                 "id": "154dd818-65e0-43cb-b865-a3d5975372c2",
@@ -651,6 +659,14 @@
             "Value": {
                 "id": "9ef91446-6be0-4210-acfe-23932c335163",
                 "resourcePath": "objects\\Okobject\\Okobject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e55107ae-436d-418d-a265-7f293caef49c",
+            "Value": {
+                "id": "1bc8e3d9-21ed-4caf-b47a-3a400603c0ac",
+                "resourcePath": "objects\\Creep2Obj\\Creep2Obj.yy",
                 "resourceType": "GMObject"
             }
         },

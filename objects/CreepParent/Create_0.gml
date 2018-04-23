@@ -7,3 +7,5 @@ maxHealth = 20;
 Health = maxHealth;
 
 path = CreepPathEasyRoom;
+
+path_start(path, Speed, path_action_stop, false);
