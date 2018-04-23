@@ -1,5 +1,6 @@
 CurrentWave = 0;
 Spawning = false;
+bCheckForEnd = false;
 // Spawn speeds for each wave
 waitTime = [30, 25, 20, 10, 1];
 // Num creeps in each wave 
