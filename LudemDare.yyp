@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "49656584-e3f3-4458-b80d-16a99b4ca326",
+            "Value": {
+                "id": "a523520d-ae07-4eaa-b007-1ba7a3131579",
+                "resourcePath": "sprites\\TakeDamage\\TakeDamage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4987f64d-1ac2-4758-8b70-bc48d9e5dc7c",
             "Value": {
                 "id": "aa27caaf-1928-44d5-99e6-228a6c37af59",
@@ -596,6 +604,14 @@
                 "id": "0d219339-6685-411a-8043-469d1a9ff72e",
                 "resourcePath": "sprites\\Instructionsbuttonsprite\\Instructionsbuttonsprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9874ccd5-56b6-4408-b18e-d7ce93eb5ae0",
+            "Value": {
+                "id": "f24d8502-53e0-413e-95ba-963214c12e6a",
+                "resourcePath": "scripts\\scr_Damage_Taken\\scr_Damage_Taken.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -978,7 +994,8 @@
     "script_order": [
         "00b0ffbd-fc79-4d8f-a363-097832f1279d",
         "6bd53d46-1ea6-4619-a3a8-3ed8c05549d4",
-        "b8a387f0-71c7-4c66-ab1e-49f064ea02cf"
+        "b8a387f0-71c7-4c66-ab1e-49f064ea02cf",
+        "9874ccd5-56b6-4408-b18e-d7ce93eb5ae0"
     ],
     "tutorial": ""
 }

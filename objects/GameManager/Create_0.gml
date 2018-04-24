@@ -5,6 +5,8 @@ PlayerHealth = 10;
 currentAttachedTower = noone;
 Amazingscount = 0;
 
+bDrawDamage = false;
+
 
 ActiveTowers = ds_list_create();
 
