@@ -41,6 +41,8 @@
         "608e942f-64eb-4e78-86bd-db2bb2a30577",
         "e55107ae-436d-418d-a265-7f293caef49c",
         "8baf6196-f845-4ab4-948a-245848c85f3a",
+        "e49e7b9d-6d41-48a1-ab80-323f12dfed00",
+        "ae5e02b0-5a77-4bc3-acca-cb82a6f68955",
         "183f55e1-b7fb-4b79-9a5b-1366cb2ebef3"
     ],
     "filterType": "GMObject",

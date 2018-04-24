@@ -12,3 +12,5 @@ depth = -1000;
 
 // Circles are drawn with 32 precision
 draw_set_circle_precision(32);
+
+audio_stop_sound(Title);

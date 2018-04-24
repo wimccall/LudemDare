@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "065d2b50-4654-417d-b698-ae9b950c3070",
+            "Value": {
+                "id": "ac18c303-db33-4b37-a0a3-67637a58fdc5",
+                "resourcePath": "sounds\\Title\\Title.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "09e4f173-7b05-4401-9766-e2d5084dff5e",
+            "Value": {
+                "id": "be1b0e27-ac2c-4afb-9f38-da815765a3cd",
+                "resourcePath": "rooms\\GameWon\\GameWon.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0aab4c97-72e5-4da6-ac4c-1bbd2dff11a2",
             "Value": {
                 "id": "2b7c3c33-8330-4f4a-8c00-3fe37ffaa1c7",
@@ -311,6 +327,14 @@
             }
         },
         {
+            "Key": "58161fe0-ccf0-40f5-9324-832da1ea36ec",
+            "Value": {
+                "id": "285f5d78-836f-4ccb-b610-f11d4324b0fc",
+                "resourcePath": "sprites\\ExitButtonHover\\ExitButtonHover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bb5656e-d799-4544-9bc3-2e53758228eb",
             "Value": {
                 "id": "2a3692e4-517f-4a69-b739-c186bedbb96f",
@@ -348,6 +372,14 @@
                 "id": "d1558c94-9f37-44ce-9918-6f2b6e4b2835",
                 "resourcePath": "objects\\Instructionsroomobj\\Instructionsroomobj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "628fdb11-e6b6-4858-89ee-b35edf8a696e",
+            "Value": {
+                "id": "b8376791-06a0-47e2-9a10-97fed264dcb7",
+                "resourcePath": "sprites\\ExitButton\\ExitButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -631,6 +663,22 @@
             }
         },
         {
+            "Key": "a8af6539-ccbf-44c7-89ff-26afadd82935",
+            "Value": {
+                "id": "6651bc85-0ae7-4bfb-9701-d306c0ac4950",
+                "resourcePath": "sprites\\GameOver\\GameOver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ae5e02b0-5a77-4bc3-acca-cb82a6f68955",
+            "Value": {
+                "id": "4701c978-1506-4e64-ad8a-d0740b71edc3",
+                "resourcePath": "objects\\ExitButtonObj\\ExitButtonObj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aed495d6-b942-4ead-8898-dd0430f67ae7",
             "Value": {
                 "id": "51915b02-ed1c-4879-969e-7d3cf05bca5d",
@@ -675,6 +723,14 @@
             "Value": {
                 "id": "ba8f74b9-9b97-4ecb-ace7-bc64468ade47",
                 "resourcePath": "sprites\\Tower1UIIconHover\\Tower1UIIconHover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b924b8a7-05bb-4ce0-bcc2-65721628da8c",
+            "Value": {
+                "id": "7ae9a561-fb23-4539-b3dd-40b43921ecfd",
+                "resourcePath": "sprites\\Background1\\Background1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -755,6 +811,14 @@
             "Value": {
                 "id": "9ef91446-6be0-4210-acfe-23932c335163",
                 "resourcePath": "objects\\Okobject\\Okobject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e49e7b9d-6d41-48a1-ab80-323f12dfed00",
+            "Value": {
+                "id": "6b63fd1a-ea91-430b-8c16-420056629119",
+                "resourcePath": "objects\\RestartBackButtonObj\\RestartBackButtonObj.yy",
                 "resourceType": "GMObject"
             }
         },
