@@ -2,5 +2,5 @@
 // You can write your code in this editor
 event_inherited();
 
-maxHealth = 15;
+maxHealth = 60;
 Health = maxHealth;
